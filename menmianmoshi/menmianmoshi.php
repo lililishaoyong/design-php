@@ -59,7 +59,10 @@ $service = new ShiMingRenZheng();
 $service->make();
 
 /*
+ * 456456
  * 123
- * 456
- * 789
+ * 456123
+ * 7891
+ * 123
+ * 1
  */
