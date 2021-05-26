@@ -59,8 +59,5 @@ $service = new ShiMingRenZheng();
 $service->make();
 
 /*
- * 111222
- * 8888
- * 10
- * 15
+ * 456
  */
